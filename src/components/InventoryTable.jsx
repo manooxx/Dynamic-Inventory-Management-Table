@@ -98,7 +98,7 @@ const InventoryTable = () => {
                                             </div>
                                             <div className='flex w-32 h-9 justify-center  items-center rounded-lg shadow-[0_0_10px_theme("colors.purple.700")] duration-300 hover:shadow-neon'>
 
-                                                <button className='bg-clip-text cursor-pointer  w-32 h-9 duration-300 hover:text-transparent bg-gradient-to-r from-pink-500 to-red-500 flex justify-center items-center font-semibold'>
+                                                <button onClick={()=> deleteItem(item.id)} className='bg-clip-text cursor-pointer  w-32 h-9 duration-300 hover:text-transparent bg-gradient-to-r from-pink-500 to-red-500 flex justify-center items-center font-semibold'>
                                                     Delete
                                                 </button>
                                             </div>
