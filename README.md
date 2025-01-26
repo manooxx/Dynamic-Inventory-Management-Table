@@ -1,8 +1,20 @@
-# React + Vite
+#  Inventory Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Inventory Management System** built with **React, Tailwind CSS, and Framer Motion**. This application allows users to **add, edit, delete, and filter inventory items**, along with animations for better user experience.
 
-Currently, two official plugins are available:
+## Features
+-  **Add, Edit, and Delete Inventory Items**
+-  **Filter and Sort by Category & Quantity**
+-  **Dynamic UI with Tailwind CSS**
+-  **Smooth Animations using Framer Motion**
+-  **Local Storage for Data Persistence**
+-  **Highlights Low-Stock Items (Quantity < 10)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Technologies Used
+- **React** (Frontend Framework)
+- **Tailwind CSS** (Styling)
+- **Framer Motion** (Animations)
+- **Local Storage** (Data Persistence)
+
