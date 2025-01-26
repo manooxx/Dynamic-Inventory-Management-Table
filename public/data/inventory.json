@@ -1,0 +1,6 @@
+
+[
+    { "id": 1, "name": "Laptop", "category": "Electronics", "quantity": 15 },
+    { "id": 2, "name": "Notebook", "category": "Stationery", "quantity": 8 },
+    { "id": 3, "name": "Mouse", "category": "Electronics", "quantity": 5 }
+]
